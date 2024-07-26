@@ -14,7 +14,7 @@ Proyek ini menganalisis tren perubahan suhu dan tekanan udara di Dingling dengan
 
 1. **Clone repository ini**:
     ```bash
-    git clone https://github.com/username/repository.git
+    git clone [https://github.com/username/repository.git](https://github.com/Wlnfadhil/air-data-quality-pdrsa.git)
     cd repository
     ```
 
