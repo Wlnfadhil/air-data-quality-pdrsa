@@ -1,5 +1,5 @@
 # air-data-quality-pdrsa
-# air-data-quality-pdrsa
+
 ## Analisis Suhu dan Tekanan Udara di Dingling
 
 Proyek ini menganalisis tren perubahan suhu dan tekanan udara di Dingling dengan menggunakan dataset historis. Kami memvisualisasikan data dalam beberapa interval waktu dan menghitung rata-rata untuk memberikan wawasan yang lebih dalam tentang pola cuaca di area tersebut.
