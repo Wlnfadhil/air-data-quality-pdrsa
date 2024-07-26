@@ -375,10 +375,3 @@ st.write(wind_direction_df)
 st.header('Persentase Arah Angin')
 st.bar_chart(wind_direction_df.set_index('wind_direction')['percent'])
 
-# Menampilkan persentase arah angin dalam bentuk tabel
-st.write('Persentase Arah Angin:')
-<<<<<<< HEAD
-st.write(wind_direction_df[['wind_direction', 'percent']])
-=======
-st.write(wind_direction_df[['wind_direction', 'percent']])
->>>>>>> db673f197374d0365c5e63390ff489bdad764daf
