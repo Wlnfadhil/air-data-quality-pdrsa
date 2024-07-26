@@ -9,6 +9,12 @@ Proyek ini menganalisis tren perubahan suhu dan tekanan udara di Dingling dengan
 - **Dataset**: Data yang digunakan dalam proyek ini mencakup informasi suhu dan tekanan udara dari berbagai periode waktu.
 - **Visualisasi**: Grafik yang menampilkan tren perubahan suhu dan tekanan udara.
 - **Analisis**: Menghitung rata-rata suhu dan tekanan udara untuk periode waktu tertentu.
+### Streamlit clone 
+
+**Streamlit link
+   '''streamlit 
+   https://air-data-quality-pdrsa.streamlit.app/
+   '''
 
 ### Instalasi
 
