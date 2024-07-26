@@ -7,7 +7,7 @@ from datetime import timedelta
 
 # Load data
 try:
-    dingling = pd.read_csv(r"C:\Users\wilda\OneDrive\WILDAN FADHIL NAZARUDDIN\PROJECK\latihan data scientis\submission\data\PRSA_Data_Dingling_20130301-20170228.csv")
+    dingling = pd.read_csv('./submission/dashboard/main_data.csv', encoding='utf-8')
 except FileNotFoundError:
     st.error("File not found. Please check the file path.")
     st.stop()
